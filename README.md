@@ -1,3 +1,3 @@
 # Login-form
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-laj1r1)
+Login form with tailwindcss
